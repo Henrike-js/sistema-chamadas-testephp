@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: sistema-chamadas-php
-    env: php
-    plan: free
-    buildCommand: ""
-    startCommand: ""
